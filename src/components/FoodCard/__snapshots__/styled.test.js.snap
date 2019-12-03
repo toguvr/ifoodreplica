@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddRequestButton Should match Snapshot 1`] = `
+<div
+  className="sc-dnqmqq fbSqyp"
+/>
+`;
+
+exports[`CardContent Should match Snapshot 1`] = `
+<div
+  className="sc-bxivhb pmVMD"
+/>
+`;
+
+exports[`FlexDiv Should match Snapshot 1`] = `
+<div
+  className="sc-bwzfXH jlrUAl"
+/>
+`;
+
+exports[`StyledCard Should match Snapshot 1`] = `null`;
+
+exports[`StyledCardMedia Should match Snapshot 1`] = `
+<div
+  className="MuiCardMedia-root-1 sc-htpNat cXoTGc"
+/>
+`;
+
+exports[`TypographyButtonText Should match Snapshot 1`] = `
+<span
+  className="sc-htoDjs bCQbSu"
+/>
+`;
+
+exports[`TypographyDescription Should match Snapshot 1`] = `
+<span
+  className="sc-bZQynM MfOWc"
+/>
+`;
+
+exports[`TypographyTitle Should match Snapshot 1`] = `
+<span
+  className="sc-ifAKCX kxofPk"
+/>
+`;
+
+exports[`TypographyValue Should match Snapshot 1`] = `
+<span
+  className="sc-gzVnrw gdkpaK"
+/>
+`;

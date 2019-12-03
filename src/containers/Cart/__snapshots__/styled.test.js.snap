@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonDiv Should match Snapshot 1`] = `
+<div
+  className="sc-gZMcBi dqDUWI"
+/>
+`;
+
+exports[`CartWrapper Should match Snapshot 1`] = `
+<div
+  className="sc-bdVaJa fXtWFB"
+/>
+`;
+
+exports[`DeliveryAdress Should match Snapshot 1`] = `
+<span
+  className="sc-htpNat kQogIv"
+/>
+`;
+
+exports[`DeliveryAdressContainer Should match Snapshot 1`] = `
+<div
+  className="sc-bwzfXH jnTBQL"
+/>
+`;
+
+exports[`FinalPriceContainer Should match Snapshot 1`] = `
+<p
+  className="MuiTypography-root-1 MuiTypography-body1-10 sc-dnqmqq cMqeOn"
+/>
+`;
+
+exports[`FreightPrice Should match Snapshot 1`] = `
+<p
+  className="MuiTypography-root-1 MuiTypography-body1-10 sc-htoDjs glyOGT"
+/>
+`;
+
+exports[`HeaderDiv Should match Snapshot 1`] = `
+<div
+  className="sc-gqjmRU cqWyPH"
+/>
+`;
+
+exports[`PaymentContainer Should match Snapshot 1`] = `
+<div
+  className="sc-iwsKbI kmfDbV"
+/>
+`;
+
+exports[`PriceContainer Should match Snapshot 1`] = `
+<div
+  className="sc-gzVnrw fOuSUw"
+/>
+`;
+
+exports[`RestaurantAdress Should match Snapshot 1`] = `
+<span
+  className="sc-bxivhb biGqTk"
+/>
+`;
+
+exports[`RestaurantDetailContainer Should match Snapshot 1`] = `
+<div
+  className="sc-bZQynM hKEBHf"
+/>
+`;
+
+exports[`TotalText Should match Snapshot 1`] = `
+<span
+  className="sc-EHOje gdVasZ"
+/>
+`;
+
+exports[`WaitingTime Should match Snapshot 1`] = `
+<span
+  className="sc-ifAKCX dUmvOX"
+/>
+`;

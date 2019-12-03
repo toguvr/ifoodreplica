@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`styleds MainPopUpDiv 1`] = `
+<div
+  className="sc-bdVaJa gubzSf"
+/>
+`;
+
+exports[`styleds SelectPickerStyled 1`] = `
+<div
+  className="sc-bwzfXH doiNWg rs-picker-select rs-picker-default rs-picker-toggle-wrapper rs-picker-placement-bottom-start"
+  onClick={[Function]}
+  role="menu"
+  tabIndex={-1}
+>
+  <a
+    className="rs-picker-toggle"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    role="combobox"
+    tabIndex={0}
+  >
+    <span
+      className="rs-picker-toggle-placeholder"
+    >
+      Select
+    </span>
+    <span
+      className="rs-picker-toggle-caret"
+    />
+    <span
+      className="rs-ripple-pond"
+    >
+      <span
+        className="rs-ripple"
+        style={Object {}}
+      />
+    </span>
+  </a>
+</div>
+`;
+
+exports[`styleds SpanButton 1`] = `
+<span
+  className="sc-ifAKCX blfhgW"
+/>
+`;
+
+exports[`styleds Text 1`] = `
+<span
+  className="sc-bxivhb edPNey"
+/>
+`;
+
+exports[`styleds WhiteContainer 1`] = `
+<div
+  className="sc-htpNat cdpSEJ"
+/>
+`;

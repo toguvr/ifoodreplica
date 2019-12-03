@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`styleds AddressText 1`] = `
+<span
+  className="sc-bZQynM hTJMiY"
+/>
+`;
+
+exports[`styleds AdressContainer 1`] = `
+<div
+  className="sc-bwzfXH fiwDsq"
+/>
+`;
+
+exports[`styleds AdressTitle 1`] = `
+<span
+  className="sc-htoDjs beNDqa"
+/>
+`;
+
+exports[`styleds HistoryContainer 1`] = `
+<div
+  className="sc-bxivhb hXIiwd"
+/>
+`;
+
+exports[`styleds HistoryText 1`] = `
+<span
+  className="sc-gzVnrw jKsnuh"
+/>
+`;
+
+exports[`styleds HistoryTitleContainer 1`] = `
+<div
+  className="sc-htpNat dFXXDU"
+/>
+`;
+
+exports[`styleds ProfileContainer 1`] = `
+<div
+  className="sc-bdVaJa hOPQam"
+/>
+`;
+
+exports[`styleds ProfileFlexDiv 1`] = `
+<div
+  className="sc-ifAKCX hsHtRY"
+/>
+`;
+
+exports[`styleds ProfileText 1`] = `
+<span
+  className="sc-EHOje cfYHCb"
+/>
+`;
